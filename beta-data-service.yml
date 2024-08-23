@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: beta-data-service
+
+server:
+  port: 8082
