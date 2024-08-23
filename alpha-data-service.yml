@@ -1,6 +1,5 @@
-spring:
-  application:
-    name: alpha-data-service
-
 server:
   port: 8081
+
+message:
+  greeting: "Hello from the Config Server-Alpha Data Service!!"
