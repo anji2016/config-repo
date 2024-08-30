@@ -1,4 +1,4 @@
 server:
   port: 8083
 message:
-  greeting: "Hello from the Config Server-Gamma Data Service!!"
+  greeting: "Hello from Gamma Data Service!!!"
