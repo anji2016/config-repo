@@ -1,4 +1,4 @@
 server:
   port: 8082
 message:
-  greeting: "Hello from the Config Server-Beta Data Service!!"
+  greeting: "Hello from Beta Data Service!!!"
