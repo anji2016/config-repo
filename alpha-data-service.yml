@@ -2,4 +2,4 @@ server:
   port: 8081
 
 message:
-  greeting: "Hello from the Config Server-Alpha Data Service!!"
+  greeting: "Hello from Alpha Data Service!!!"
